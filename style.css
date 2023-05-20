@@ -49,4 +49,5 @@ box-shadow: 0px 1px 10px;
     width: 80vw;
     margin-left: 16px;
     border: solid;
+    box-shadow: 10px 10px 10px grey;
 }
